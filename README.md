@@ -1,1 +1,1 @@
-Calculator create using Windows Presentation Foundation Framework
+Basic Calculator created using Windows Presentation Foundation Framework
